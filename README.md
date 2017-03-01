@@ -1,3 +1,1 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
-
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/
+Este livro é uma introdução a métodos quantitativos para Política Comparada e Relações Internacionais. Ele nasce como uma ferramenta de apoio para a disciplina PRI-5003 (Análise Quantitativa e Métodos Empíricos com Aplicações em Política Comparada e Relações Internacionais) do Programa de Pós-Graduação em Relações Internacionais da Universidade de São Paulo, mas a expectativa é de que também seja útil para uma parcela mais ampla de alunos e pesquisadores da área.
